@@ -1,0 +1,2 @@
+com/DefaultCompany/GMNGMaster/BuildConfig.java
+ com.DefaultCompany.GMNGMaster.BuildConfig
